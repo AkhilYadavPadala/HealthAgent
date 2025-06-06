@@ -137,7 +137,7 @@ doctor_halwa = AssistantAgent(
     "7. Stay within your role, be concise, and avoid unnecessary details."
     "8. Don't say in response that you're calling a function.It's unecessary to user.",
     llm_config={"config_list": [{"model": "llama3-70b-8192",
-        "api_key": "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",
+        "api_key": "your-api-key",
         "api_type": "groq"}],
         "functions": functions,
         "stream": True},
@@ -163,7 +163,7 @@ groupchat = GroupChat(
 
 manager = GroupChatManager(groupchat=groupchat,     
         llm_config={"config_list": [{"model": "llama3-70b-8192",
-        "api_key": "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",
+        "api_key": "your-api-key",
         "api_type": "groq"}]},
         human_input_mode="NEVER",
         )
@@ -192,7 +192,7 @@ def handle_audio(data):
         # Transcribe the audio using Groq API
         client = Groq(
             base_url="https://api.groq.com",
-            api_key="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"
+            api_key="your-api-key"
         )
         with open(temp_audio_path, "rb") as file:
             transcription = client.audio.transcriptions.create(
