@@ -12,8 +12,8 @@
 - Integrated *SOS emergency button*.
 - Easy navigation through the *bottom navigation bar* and *side drawer* menu.
 
-*Screenshot: Home Page*
-![Home](./assets/home_page.jpg)
+<h4>🖼️ Screenshot: Home Page</h4>
+<img src="./assets/home_page.jpg" alt="Home Page" width="400"/>
 
 ---
 
@@ -28,8 +28,8 @@
 - *Favorites* – Quick access to frequently used features.
 - *Profile* – Manage personal information and preferences.
 
-*Screenshot: Navigation Menu*
-![Drawer](./assets/navigation_drawer.jpg)
+<h4>🖼️ Screenshot: Navigation Menu</h4>
+<img src="./assets/navigation_drawer.jpg" alt="Navigation Drawer" width="400"/>
 
 ---
 
@@ -42,9 +42,8 @@
   - Considers *user location* to suggest nearby doctors.
   - *Books appointments* automatically, saving time and effort.
 
-*📽 Demo: AI Health Query and Appointment Booking*
-
-[Watch Video](./assets/aiagent.mp4)
+📽️ <strong>Demo: AI Health Query and Appointment Booking</strong>  
+<a href="./assets/aiagent.mp4">▶ Watch Video</a>
 
 ---
 
@@ -59,8 +58,8 @@
     - Doctor's recommendations and next steps
 - Makes complex reports *easy to understand* for any user.
 
-*Screenshot: Report Summary*
-![Medical Summary](./assets/report_summary.jpg)
+<h4>🖼️ Screenshot: Report Summary</h4>
+<img src="./assets/report_summary.jpg" alt="Report Summary" width="400"/>
 
 ---
 
@@ -74,15 +73,17 @@
 
 ## 📸 Screenshots Overview
 
-| Home Page | Navigation Menu | Report Summary |
-|-----------|------------------|----------------|
-| ![Home](./assets/home_page.jpg) | ![Drawer](./assets/navigation_drawer.jpg) | ![Summary](./assets/report_summary.jpg) |
+<p float="left">
+  <img src="./assets/home_page.jpg" width="250" />
+  <img src="./assets/navigation_drawer.jpg" width="250" />
+  <img src="./assets/report_summary.jpg" width="250" />
+</p>
 
 ---
 
 ## 📽 Full Demo Video
 
 🎬 AI Agent solving user queries and booking appointments:  
-*[▶ Click to Play](./assets/aiagent.mp4)*
+<a href="./assets/aiagent.mp4"><strong>▶ Click to Play</strong></a>
 
 ---
