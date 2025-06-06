@@ -1,0 +1,13 @@
+Flask==3.1.0
+Flask-Cors==5.0.0
+Flask-SocketIO==5.5.1
+groq==0.18.0
+pip==24.2
+pyautogen==0.7.3
+pydantic==2.10.6
+pydantic_core==2.27.2
+pymongo==4.11
+websockets==14.2
+typing==3.7.4.3
+requests==2.32.3
+python-socketio==5.12.1
