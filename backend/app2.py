@@ -146,7 +146,7 @@ doctor_halwa = AssistantAgent(
     "5. If the user expresses gratitude (e.g., says 'thanks'), respond with a polite closing message like, 'You're welcome! Let us know if you need further assistance.' "
     "6. Stay within your role, be concise, and avoid unnecessary details.",
     llm_config={"config_list": [{"model": "llama-3.2-90b-vision-preview",
-        "api_key": "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",
+        "api_key": "your-api-key",
         "api_type": "groq"}],
         "functions": functions,
         "stream": True},
@@ -172,7 +172,7 @@ groupchat = GroupChat(
 
 manager = GroupChatManager(groupchat=groupchat,     
         llm_config={"config_list": [{"model": "llama-3.2-90b-vision-preview",
-        "api_key": "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",
+        "api_key": "your-api-key",
         "api_type": "groq"}]},
         human_input_mode="NEVER",
         )
