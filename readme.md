@@ -43,7 +43,7 @@
   - *Books appointments* automatically, saving time and effort.
 
 📽️ <strong>Demo: AI Health Query and Appointment Booking</strong>  
-<a href="./assets/aiagent.mp4">▶ Watch Video</a>
+<a href="./assets/demoo.gif">▶ Watch Video</a>
 
 ---
 
@@ -84,6 +84,6 @@
 ## 📽 Full Demo Video
 
 🎬 AI Agent solving user queries and booking appointments:  
-<a href="./assets/aiagent.mp4"><strong>▶ Click to Play</strong></a>
+<a href="./assets/demoo.gif"><strong>▶ Click to Play</strong></a>
 
 ---
