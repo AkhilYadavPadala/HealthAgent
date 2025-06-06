@@ -32,7 +32,7 @@ image_summaries = []
 # Initialize the model and chain outside the route
 model = ChatOpenAI(
     base_url="https://api.groq.com/openai/v1",
-    api_key="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",
+    api_key="your-api-key",
     model="llama3-70b-8192",
 )
 
